@@ -1,0 +1,1 @@
+This is a simple program using Apriori algoritham to predict next movie he/she should buy/rent if we already know his/her previous choice.

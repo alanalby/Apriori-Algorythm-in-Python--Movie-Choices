@@ -1,0 +1,512 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.frame
+DataFrame
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'_metadata'
+p6
+(lp7
+sS'_typ'
+p8
+S'dataframe'
+p9
+sS'_data'
+p10
+g0
+(cpandas.core.internals.managers
+BlockManager
+p11
+g2
+Ntp12
+Rp13
+((lp14
+cpandas.core.indexes.base
+_new_Index
+p15
+(cpandas.core.indexes.base
+Index
+p16
+(dp17
+S'data'
+p18
+cnumpy.core.multiarray
+_reconstruct
+p19
+(cnumpy
+ndarray
+p20
+(I0
+tp21
+S'b'
+p22
+tp23
+Rp24
+(I1
+(I5
+tp25
+cnumpy
+dtype
+p26
+(S'O8'
+p27
+I0
+I1
+tp28
+Rp29
+(I3
+S'|'
+p30
+NNNI-1
+I-1
+I63
+tp31
+bI00
+(lp32
+S'Title1'
+p33
+aS'Title2'
+p34
+aS'Support'
+p35
+aS'Confidence'
+p36
+aS'Lift'
+p37
+atp38
+bsS'name'
+p39
+Nstp40
+Rp41
+ag15
+(cpandas.core.indexes.range
+RangeIndex
+p42
+(dp43
+S'start'
+p44
+I0
+sS'step'
+p45
+I1
+sS'stop'
+p46
+I34
+sg39
+Nstp47
+Rp48
+a(lp49
+g19
+(g20
+(I0
+tp50
+g22
+tp51
+Rp52
+(I1
+(I5
+I34
+tp53
+g29
+I00
+(lp54
+S"['Red Sparrow']"
+p55
+aS"['Star Wars']"
+p56
+aS"['Jumanji']"
+p57
+aS"['Wonder Woman']"
+p58
+aS"['The Spy Who Dumped Me']"
+p59
+aS"['Coco', 'Intern']"
+p60
+aS"['Red Sparrow', 'nan']"
+p61
+aS"['Star Wars', 'nan']"
+p62
+aS"['Intern', 'Tomb Rider']"
+p63
+aS"['Ninja Turtles', 'The Revenant']"
+p64
+aS"['Intern', 'Tomb Rider']"
+p65
+aS"['Intern', 'Tomb Rider']"
+p66
+aS"['Intern', 'Tomb Rider']"
+p67
+aS"['Iron Man', 'Tomb Rider']"
+p68
+aS"['Ninja Turtles', 'Jumanji']"
+p69
+aS"['Tomb Rider', 'Jumanji']"
+p70
+aS"['nan', 'Jumanji']"
+p71
+aS"['Jumanji', 'The Revenant']"
+p72
+aS"['nan', 'Wonder Woman']"
+p73
+aS"['Ninja Turtles', 'Moana']"
+p74
+aS"['Moana', 'Tomb Rider']"
+p75
+aS"['The Spy Who Dumped Me', 'nan']"
+p76
+aS"['Coco', 'Intern', 'nan']"
+p77
+aS"['nan', 'Intern', 'Tomb Rider']"
+p78
+aS"['Ninja Turtles', 'nan', 'The Revenant']"
+p79
+aS"['nan', 'Intern', 'Tomb Rider']"
+p80
+aS"['nan', 'Intern', 'Tomb Rider']"
+p81
+aS"['nan', 'Intern', 'Tomb Rider']"
+p82
+aS"['nan', 'Iron Man', 'Tomb Rider']"
+p83
+aS"['Ninja Turtles', 'nan', 'Jumanji']"
+p84
+aS"['nan', 'Tomb Rider', 'Jumanji']"
+p85
+aS"['nan', 'Jumanji', 'The Revenant']"
+p86
+aS"['Ninja Turtles', 'Moana', 'nan']"
+p87
+aS"['nan', 'Moana', 'Tomb Rider']"
+p88
+aS"['Green Lantern']"
+p89
+aS"['Green Lantern']"
+p90
+aS"['Kung Fu Panda']"
+p91
+aS"['Jumanji']"
+p92
+aS"['Spiderman 3']"
+p93
+aS"['The Revenant']"
+p94
+aS"['Green Lantern']"
+p95
+aS"['Green Lantern']"
+p96
+aS"['Jumanji']"
+p97
+aS"['Intern']"
+p98
+aS"['Spiderman 3']"
+p99
+aS"['The Revenant']"
+p100
+aS"['World War Z']"
+p101
+aS"['Jumanji']"
+p102
+aS"['Kung Fu Panda']"
+p103
+aS"['Kung Fu Panda']"
+p104
+aS"['Kung Fu Panda']"
+p105
+aS"['Tomb Rider']"
+p106
+aS"['Jumanji']"
+p107
+aS"['Thor']"
+p108
+aS"['Spiderman 3']"
+p109
+aS"['Spiderman 3']"
+p110
+aS"['The Revenant']"
+p111
+aS"['Jumanji']"
+p112
+aS"['Intern']"
+p113
+aS"['Spiderman 3']"
+p114
+aS"['The Revenant']"
+p115
+aS"['World War Z']"
+p116
+aS"['Jumanji']"
+p117
+aS"['Kung Fu Panda']"
+p118
+aS"['Kung Fu Panda']"
+p119
+aS"['Tomb Rider']"
+p120
+aS"['Thor']"
+p121
+aS"['Spiderman 3']"
+p122
+aS'0.00573'
+p123
+aS'0.00586'
+p124
+aS'0.01599'
+p125
+aS'0.00533'
+p126
+aS'0.00799'
+p127
+aS'0.00533'
+p128
+aS'0.00573'
+p129
+aS'0.00586'
+p130
+aS'0.00866'
+p131
+aS'0.00719'
+p132
+aS'0.00573'
+p133
+aS'0.00599'
+p134
+aS'0.00666'
+p135
+aS'0.00533'
+p136
+aS'0.00666'
+p137
+aS'0.00639'
+p138
+aS'0.01599'
+p139
+aS'0.00599'
+p140
+aS'0.00533'
+p141
+aS'0.00853'
+p142
+aS'0.00719'
+p143
+aS'0.00799'
+p144
+aS'0.00533'
+p145
+aS'0.00866'
+p146
+aS'0.00719'
+p147
+aS'0.00573'
+p148
+aS'0.00599'
+p149
+aS'0.00666'
+p150
+aS'0.00533'
+p151
+aS'0.00666'
+p152
+aS'0.00639'
+p153
+aS'0.00599'
+p154
+aS'0.00853'
+p155
+aS'0.00719'
+p156
+aS'0.30069'
+p157
+aS'0.37288'
+p158
+aS'0.16282'
+p159
+aS'0.37735'
+p160
+aS'0.27149'
+p161
+aS'0.23255'
+p162
+aS'0.30069'
+p163
+aS'0.37288'
+p164
+aS'0.31100'
+p165
+aS'0.30508'
+p166
+aS'0.20574'
+p167
+aS'0.21531'
+p168
+aS'0.23923'
+p169
+aS'0.32258'
+p170
+aS'0.16286'
+p171
+aS'0.16326'
+p172
+aS'0.16282'
+p173
+aS'0.52325'
+p174
+aS'0.37735'
+p175
+aS'0.17777'
+p176
+aS'0.20300'
+p177
+aS'0.27149'
+p178
+aS'0.23255'
+p179
+aS'0.31100'
+p180
+aS'0.30681'
+p181
+aS'0.20574'
+p182
+aS'0.21531'
+p183
+aS'0.23923'
+p184
+aS'0.32258'
+p185
+aS'0.16286'
+p186
+aS'0.16326'
+p187
+aS'0.52325'
+p188
+aS'0.17777'
+p189
+aS'0.20300'
+p190
+aS'3.79083'
+p191
+aS'4.70081'
+p192
+aS'3.29199'
+p193
+aS'3.84065'
+p194
+aS'4.12241'
+p195
+aS'3.25451'
+p196
+aS'3.79083'
+p197
+aS'4.70081'
+p198
+aS'3.16532'
+p199
+aS'3.20061'
+p200
+aS'3.12402'
+p201
+aS'3.01314'
+p202
+aS'3.49804'
+p203
+aS'3.28314'
+p204
+aS'3.29288'
+p205
+aS'3.30095'
+p206
+aS'3.29199'
+p207
+aS'3.00531'
+p208
+aS'3.84065'
+p209
+aS'3.51849'
+p210
+aS'3.08250'
+p211
+aS'4.12241'
+p212
+aS'3.25451'
+p213
+aS'3.16532'
+p214
+aS'3.21880'
+p215
+aS'3.12402'
+p216
+aS'3.01314'
+p217
+aS'3.49804'
+p218
+aS'3.28314'
+p219
+aS'3.29288'
+p220
+aS'3.30095'
+p221
+aS'3.00531'
+p222
+aS'3.51849'
+p223
+aS'3.08250'
+p224
+atp225
+ba(lp226
+g15
+(g16
+(dp227
+g18
+g19
+(g20
+(I0
+tp228
+g22
+tp229
+Rp230
+(I1
+(I5
+tp231
+g29
+I00
+(lp232
+g33
+ag34
+ag35
+ag36
+ag37
+atp233
+bsg39
+Nstp234
+Rp235
+a(dp236
+S'0.14.1'
+p237
+(dp238
+S'axes'
+p239
+g14
+sS'blocks'
+p240
+(lp241
+(dp242
+S'mgr_locs'
+p243
+c__builtin__
+slice
+p244
+(I0
+I5
+I1
+tp245
+Rp246
+sS'values'
+p247
+g52
+sasstp248
+bsb.
